@@ -26,10 +26,6 @@ Project 1: Sales Performance Analysis for a Retail Store
 
 •	Data Notes: The dataset provides product-specific sales details across regions and timeframes.
 
-###Data Visualization
----
-
-
 
  ###Tools Used
 ---
