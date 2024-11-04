@@ -55,6 +55,12 @@ Exploratory Data Analysis  involved the exploring of the Data to answer some que
 
 - The highest Performing Region
 
+- Sales order by region
+
+- Product rank by revenue
+
+- Product rank by quantity sold
+
 - The top selling Product
 
 - The overall Monthly sales Trend
@@ -67,6 +73,7 @@ o	Used formulas to compute metrics like average sales per product and total regi
 
 o	Added a Power Query column to categorize sales volume as Low (1–20 units), Medium (21–50), or High (>50) based on the [Unit Sold] column, as provided in the attachment instructions (LITA CAPSTONE DATASET_S…).
 
+o	Added some dax functions to create new measures, e.g We identified the maximum sales using "Max_SalesRecord = MAX([TotalSales])", also Minimum sales using "Min_SalesRecord = Min(SalesData_LITA_CAPSTONE_DATASET[TotalSales])", and Total Rvenue generated "Total Revenue = SUM(SalesData_LITA_CAPSTONE_DATASET[TotalSales])".
 
 •	###MYSQL Analysis:
 
