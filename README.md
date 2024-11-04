@@ -141,6 +141,9 @@ o	Visualized insights from Excel and SQL analysis to include:
 
 ![image](https://github.com/user-attachments/assets/7665aba5-87fe-4747-9a7f-7751b900a282)
 
+![image](https://github.com/user-attachments/assets/067e407b-5b87-496d-a5cd-5277f325538e)
+
+
 ________________________________________
 
 
