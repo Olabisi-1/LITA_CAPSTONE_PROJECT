@@ -123,7 +123,7 @@ o	Visualized insights from Excel and SQL analysis to include:
 	Monthly sales trends
 
 
-5. ##Key Insights from Sales Performance Analysis
+ ###Key Insights from Sales Performance Analysis
 
 •	Top-Selling Product: Shoes had the highest sales at $3,087,500.
 
