@@ -138,6 +138,9 @@ o	Visualized insights from Excel and SQL analysis to include:
 •	Top Customers: Customer Cus1488 had the highest purchase amount at $29,340.
 
 ###Visualization
+
+![image](https://github.com/user-attachments/assets/7665aba5-87fe-4747-9a7f-7751b900a282)
+
 ________________________________________
 
 
